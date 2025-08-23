@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: None
 - ⚡ Fun fact: None
 
-<https://github-readme-stats.vercel.app/api?username=Zhalslar&show_icons=true>
+<https://github-readme-stats.vercel.app/api?username=Zhalslar&show_icons=false&theme=radical>
