@@ -7,7 +7,6 @@
 
   [![爱发电](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&labelColor=444444&logoSize=auto)](https://afdian.com/a/bishuige2936169201)
   [![微信打赏](https://img.shields.io/badge/打赏-微信-46ec91?style=flat&labelColor=444444&logoSize=auto)](https://github.com/user-attachments/assets/84241317-26b1-4bf1-87a9-d56d1813d8fd)
-)
   [![B站](https://img.shields.io/badge/Bilibili-B站-8643e9?style=flat&labelColor=444444&logoSize=auto)](https://space.bilibili.com/496733846)
   [![联系方式](https://img.shields.io/badge/联系方式-QQ群-e07070?style=flat&labelColor=444444&logoSize=auto)](https://qm.qq.com/q/vTMJxaZWMw)
 
